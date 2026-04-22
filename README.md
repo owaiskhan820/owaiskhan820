@@ -38,7 +38,7 @@ Successfully rendered the 15-line standard Medina (QPC) Mushaf layout into a web
 
 - **Impact:** Delivered a visually stunning, highly resilient reading environment featuring **smart search integration**, Juz/Surah navigators, and a modern **glassmorphism aesthetic** that ensures a premium user experience across all devices.
 
-[🔗 View Repo](https://github.com/owaiskhan820/WeRank_Backend) 
+[🔗 View Repo](https://github.com/owaiskhan820/quran_assistant_web) 
 
 ### Skills
 **Frontend:** React • Next.js • TypeScript • Tailwind CSS • Material UI  
